@@ -1,0 +1,7 @@
+{
+  "name": "TrendPulse AI",
+  "description": "AI-powered content trend prediction and planning tool for marketers and influencers. Connects search volume with SNS memes using Google Search, Maps, and Image Generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
